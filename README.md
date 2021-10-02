@@ -10,6 +10,7 @@ This project is a test to learn the SFML API. The overall goal of this project i
 ## <a name="todo_id"></a> TODO List
 - [ ] Define Goals
 - [ ] Make Better README
+- [ ] Define better build chain
 
 ## <a name="compile_instruction_id"></a> Compile Instruction
 This project uses the atom build package to build the project. If you don't want to use atom these are the compile instructions (**Requires the g++ compiler**).
